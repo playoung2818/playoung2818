@@ -1,7 +1,8 @@
-- Hi, I’m Zheyua Chen. Grown up in Shanghai, China. Currently living in Chicago, USA
-- I’m interested in Blockchain Technology and Supply Chain Management
-- I’m currently learning How to connect these two chains to create innovative solutions.
-- I’m looking to collaborate on any project as long as it's legal
-- How to reach me: zyuanche@gmail.com
-- Fun fact: The pic is not my Dog, it's just so cute I want everyone take a look.
+Hi, I’m Zheyua Chen. I grew up in Shanghai, China, and now live in Chicago.
 
+At work, I focus on automating tedious workflows to make life easier. On weekends, you’ll usually find me biking or reading to recharge.
+
+I’m open to collaborating on any project — as long as it’s legal.
+You can reach me at zyuanche@gmail.com.
+
+Fun fact: The dog in the picture isn’t mine, but it’s so cute I had to share it.
