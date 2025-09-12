@@ -1,4 +1,4 @@
-Hi, I’m Zheyua Chen. I grew up in Shanghai, China, and now live in Chicago.
+Hi, I’m Zheyua Chen. I grew up in Shanghai, and now live in Chicago.
 
 At work, I focus on automating tedious workflows to make life easier. On weekends, you’ll usually find me biking or reading to recharge.
 
