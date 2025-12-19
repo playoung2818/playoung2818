@@ -7,4 +7,4 @@ You can reach me at zyuanche@gmail.com.
 
 Please say hello to paipai, he is a lovely Pisces poodle
 
-'git_push_brain 9 hours ago'
+> git_push_brain · 9 hours ago
